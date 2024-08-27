@@ -1,7 +1,3 @@
-# Copyright (C) 2017 Udacity Inc.
-# All Rights Reserved.
-
-# Author: Brandon Kinman
 
 
 class PIDController:
