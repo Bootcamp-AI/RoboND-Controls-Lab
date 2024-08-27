@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-
-# Author: Devin Anzelmo
 
 # TODO add services for setting some plot parameters to
 from nav_msgs.srv import GetPlan
